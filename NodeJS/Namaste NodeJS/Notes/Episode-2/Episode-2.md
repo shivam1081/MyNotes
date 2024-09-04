@@ -18,6 +18,7 @@ A server is a type of computer that runs remotely. We send requests to servers. 
 - **V8 Engine:** V8 can be embedded in any C++ program.
   - JavaScript → V8 (C++) → Machine Language
 - **Node.js Overview:**
+  - Node.js is the Javascript runtime environment.
   - Node.js is a C++ program with V8 embedded into it.
   - V8 executes JavaScript code, but Node.js provides additional features, such as APIs for server-side operations and communication with databases, which are not covered by the ECMAScript standards.
   ![alt text](image.png)
