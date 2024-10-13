@@ -13,7 +13,6 @@ that is like
 6. Similarly require is also passed in the function
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-
 What happens when we use require behind the scenes 
 There is a 5 step process that takes place 
 ![alt text](image-3.png)
